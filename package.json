@@ -5,7 +5,7 @@
   "main": "extension.js",
   "dependencies": {
     "eslint": "^7.5.0",
-    "node-sass": "^4.14.1"
+    "node-sass": "^5.0.0"
   },
   "devDependencies": {},
   "scripts": {
